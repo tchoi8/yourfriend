@@ -35,3 +35,5 @@ from [APAP website](https://apap.or.kr/en/sharing_faces).
 
 As part of our initiative to further collaboration, Making Lab team went to YCAM to visit Interlab and friends in 2013. 
 [Pics](https://www.flickr.com/photos/makinglab/sets/72157638756366785/) 
+
+[for more information on the book](http://tchoi8.github.io/yourfriend/book/)
