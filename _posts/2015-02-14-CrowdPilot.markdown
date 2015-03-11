@@ -1,23 +1,9 @@
 ---
 layout: post
-title:  "Spam Lunch, Spam Mail"
+title:  "Crowd Pilot"
 date:   2015-02-22 06:33:11
 categories: works
 ---
- 
- Background
- 
- - Story about the spam (link to the instructable, Brief history of spam)
- - Photo of spam Lunch at Recess 
- - Original Drawing for the recess  
- - Photo of Spam Lunch at Factory 
- 
- Instruction to send Spam
- - Drawing
- 
- Spam mails received 
- 
- 
- 
+ <iframe src="https://player.vimeo.com/video/86388606?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/86388606">crowdpilot</a> from <a href="https://vimeo.com/lmccart">Lauren McCarthy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   
  
