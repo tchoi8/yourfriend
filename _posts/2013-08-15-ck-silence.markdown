@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Christine Sun Kim: Silence and noise"
+title:  "Christine Sun Kim: Silence and noise 크리스틴 선 킴: 침묵과 잡음"
 date:   2015-03-07 06:33:11
 categories: collaboration
 ---

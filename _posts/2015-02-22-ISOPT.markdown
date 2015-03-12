@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "강이룬과 협업, 맞춤형 시간을 찾아서"
+title:  "E Roon Kang: In search of personalized time, 강이룬: 맞춤형 시간을 찾아서"
 date:   2015-02-22 06:33:11
 categories: collaboration
 ---

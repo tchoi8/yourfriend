@@ -1,25 +1,14 @@
 ---
 layout: post
-title:  "David Horvitz: Spam Lunch, Spam Mail"
+title:  "David Horvitz: Spam Lunch, Spam Mail,데이비드 호르비츠, 스팸 런치, 스팸 메일"
 date:   2015-02-22 06:33:11
 categories: works
 ---
  
- Background
- 
- - Story about the spam (link to the instructable, Brief history of spam)
- - Photo of spam Lunch at Recess 
- - Original Drawing for the recess  
- - Photo of Spam Lunch at Factory 
- 
- Instruction to send Spam
- - Drawing
- 
- Spam mails received 
  
  
  
-##Spam Lunch, Spam-Mail. 스팸 런치, 스팸-메일. 
+##Spam Lunch, Spam-Mail. 스팸 런치, 스팸 메일. 
  
 There were 5~6 people who registered to participate in the Spam Lunch performance today at Your Friend exhibition at Gallery Factory. Around noon, most of them showed up - each bringing a can of Spam. We set up the rice cooker, hot stove and other food and utensils. More people came over as we started cooking Kimbab, sea weed rolls. We were strangers, making lunch together and talking about how to send it to other places, laughing and enjoying ourselves. More people dropped by, eating a piece of roll or two. I explained David Horvitz’s practice in general- the mail art, ranging from poetic notes on his twitter account and complex curatorial project like Cigarette Beetle (which I loaned from the Park Library in APAP for the show). His way of working has inspired my studio practice as well as curatorial work. And also having a generous and humorous friend like him around has been great. While this performance was conducted by myself, it was still a form of collaboration and correspondence with him. 
 
