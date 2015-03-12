@@ -13,7 +13,8 @@ A pair of incomplete books that are missing pieces until two friends talk about 
 * Editor: Kyounghee Lee
 * Production: [Gallery Factory](http://www.factory483.org/ver2/exh_124_pre.html) 
 * Printing: [Corners](http://corners.kr/) 
-* Price: $40 including shipping around the world  
+* Price: $40 including shipping around the world
+* Delivery estimated before June, 2015  
 * [Shipping information](https://docs.google.com/forms/d/1gpJw1aiHaNgZjIpvuPCkyc6zBNDotoAmV9h09l33eMQ/viewform) Please use this form to confirm your purchase. 
 * Contact: taeyoon@sfpc.io 
 * Gallery Factory: / 02 733 4883 / [www.factory483.org](https://www.factory483.org) / galleryfactory@gmail.com
@@ -41,7 +42,8 @@ A pair of incomplete books that are missing pieces until two friends talk about 
  * 편집: 이경희 
  * 제작: 갤러리 팩토리 
  * 인쇄: 코우너스 
- * 가격: 4만원 + 국내 배송/ $40 해외 배송  
+ * 가격: 4만원 + 국내 배송/ $40 + 해외 배송
+* 배송 시기: 2015, 6월 이전   
 * 해외 배송: 페이팔 이용
 * 국내 배송: 4만원, 최태윤 1002-606-923008 (우리은행) [배송 정보](https://docs.google.com/forms/d/1gp) 
 * 문의: taeyoon@sfpc.io 
