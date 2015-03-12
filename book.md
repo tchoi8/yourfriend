@@ -6,7 +6,7 @@ permalink: /book/
  
 <img src="https://farm8.staticflickr.com/7626/16609313470_46b863e7be_b.jpg">
  
-A pair of incomplete books that are missing pieces until two friends talk about it. A limited edition artist book made by Taeyoon Choi about Your friend, correspondence and collaboration, workshops and exhibition at Gallery Factory Seoul. One book will be about correspondences and the other book about the collaborations.   
+A pair of incomplete books that are missing pieces until two friends talk about it. A limited edition artist book made by Taeyoon Choi about Your friend, correspondence and collaboration, workshops and exhibition at Gallery Factory, Seoul that's on extending viewing until 2.29.2015. One book will be about correspondences and the other book about the collaborations.   
     
  
 * 60 pages * 2 , A5, two colors, edition of 300    
@@ -15,6 +15,9 @@ A pair of incomplete books that are missing pieces until two friends talk about 
 * Printing: [Corners](http://corners.kr/) 
 * Price: $40 including shipping around the world  
 * [Shipping information](https://docs.google.com/forms/d/1gpJw1aiHaNgZjIpvuPCkyc6zBNDotoAmV9h09l33eMQ/viewform) Please use this form to confirm your purchase. 
+* Contact: taeyoon@sfpc.io 
+* Gallery Factory: / 02 733 4883 / [www.factory483.org](https://www.factory483.org) / galleryfactory@gmail.com
+* [Your friend, correspondence and collaboration](http://www.factory483.org/ver2/exh_124_pre.html) Exhibition open until 2.29.2015
  
  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -41,15 +44,6 @@ A pair of incomplete books that are missing pieces until two friends talk about 
  * 가격: 4만원 + 국내 배송/ $40 해외 배송  
 * 해외 배송: 페이팔 이용
 * 국내 배송: 4만원, 최태윤 1002-606-923008 (우리은행) [배송 정보](https://docs.google.com/forms/d/1gp) 
-)  
- 
-
-Your Friend, Artist Book + International shipping: $40 
- 
- 
-
-Previous books by Taeyoon Choi.  
-
-* Urban programming 101: Stage directions, designed by Bittna Choi, Mediabus, 2010 
-* Anti-manifesto, designed by Hyo Kwon, NNB, 2012  
-  
+* 문의: taeyoon@sfpc.io 
+* 갤러리팩토리 / 02 733 4883 / [www.factory483.org](https://www.factory483.org) / galleryfactory@gmail.com
+* [당신의 친구, 대화와 협업](http://www.factory483.org/ver2/exh_124_pre.html) 전시 
