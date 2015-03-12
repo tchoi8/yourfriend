@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exhibition
+title: Exhibition 전시
 permalink: /exhibition/
 ---
  <img src="https://farm9.staticflickr.com/8562/16156852428_63460abc86_c.jpg">

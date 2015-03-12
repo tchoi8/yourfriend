@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About 소개
 permalink: /about/
 ---
 
