@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Furniture for all occasions, 모든 사건을 위한 가구"
+title:  "Furniture for all occasions
+<br/> 모든 사건을 위한 가구"
 date:   2015-01-15 06:33:11
 categories: collaboration
 ---

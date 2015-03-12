@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Christine Sun Kim: How to draw a perfect score, 크리스틴 선 킴, 오선보를 완벽하게 그리는 방법"
+title:  "Christine Sun Kim: How to draw a perfect score <br/> 
+ 크리스틴 선 킴, 오선보를 완벽하게 그리는 방법"
 date:   2015-03-07 06:33:11
 categories: collaboration
 ---

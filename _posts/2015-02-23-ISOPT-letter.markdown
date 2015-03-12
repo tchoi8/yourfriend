@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Participants: In search of personalized time, 참가자의 글: 맞춤형 시간을 찾아서"
+title:  "Participants: In search of personalized time<br/> 
+ 참가자의 글: 맞춤형 시간을 찾아서"
 date:   2015-02-22 06:33:11
 categories: collaboration
 ---

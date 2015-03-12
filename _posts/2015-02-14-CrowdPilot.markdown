@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Lauren McCarthy: Crowd Pilot 로렌 메카스: 크라우드 파일럿"
+title:  "Lauren McCarthy: Crowd Pilot <br/>
+로렌 맥카시: 크라우드 파일럿"
 date:   2015-02-22 06:33:11
 categories: works
 ---

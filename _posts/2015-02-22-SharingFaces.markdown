@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Kyle McDonald: Sharing faces, 카일 맥도날드: 우리는 같은 표정을 하고 있다."
+title:  "Kyle McDonald: Sharing faces<br/> 
+카일 맥도날드: 우리는 같은 표정을 하고 있다."
 date:   2015-02-20 06:33:11
 categories: works
 ---

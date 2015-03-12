@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Fabcoop: Uncertainty School 2,청개구리 제작소: 불확실한 학교 2"
+title:  "Fabcoop: Uncertainty School 2<br/> 
+청개구리 제작소: 불확실한 학교 2"
 date:   2015-02-22 06:33:11
 categories: works
 ---

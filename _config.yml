@@ -1,9 +1,9 @@
 # Site settings
-title: Your friend
+title: Your friend, Correspondece and collaboration 당신의 친구, 대화와 협업
 email: taeyoon@sfpc.io
-description: > # Correspondece and collaboration
+description: > # letters and collaboration with artist friends
 baseurl: "/yourfriend" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://taeyoonchoi.com/yourfriend" # the base hostname & protocol for your site
 twitter_username: tchoi8
 github_username:  tchoi8
 

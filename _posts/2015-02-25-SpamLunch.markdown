@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "David Horvitz: Spam Lunch, Spam Mail,데이비드 호르비츠, 스팸 런치, 스팸 메일"
+title:  "David Horvitz: Spam Lunch, Spam Mail <br/> 
+ 데이비드 호르비츠: 스팸 런치, 스팸 메일"
 date:   2015-02-22 06:33:11
 categories: works
 ---
