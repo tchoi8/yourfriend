@@ -9,7 +9,7 @@ A pair of books that are incomplete until two people talk about it.
 
 The limited edition artist book made by Taeyoon Choi about the workshops and the exhibition. The a pair of half letter sized pamphlets will be about 60 pages each in two color, printed with risograph. One book will be about correspondences and the other book about the collaborations. The book is meant to be shared with a friend, and their conversation complete the book.   
 
-<img src="https://farm8.staticflickr.com/7649/16592150340_60fbec27b0_b.jpg">
+<img src="https://farm8.staticflickr.com/7626/16609313470_46b863e7be_b.jpg">
  
 Order now
 
