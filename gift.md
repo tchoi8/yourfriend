@@ -31,6 +31,14 @@ Condtions will be appllied to all gifts
 The immediate goal is to raise $3000 to produce limited edition artist book about the workshops that happened during the exhibition. The artist book will be a pair of small pamphlets, each containing parts of the conversation that happened in the workshop. The presale begins today for $40. We will mail one part of the book to you and the other part to your friend. Your conversation with them will complete the book. The fund will also realize special publication of Sharing Faces by Kyle McDonald which has not been created yet.  
 
 It should go with clear mention that exhibition and performance between February and March of 2015 in Seoul was realized primarily because of the opportunity that the Gallery Factory has gifted.  Gift, in this case, was an invitation for presenting work and to stage collaboration. 
+
+Contact Gallery Fatory for sales and gifts.
+For price and availability of all work [Link](https://docs.google.com/spreadsheets/d/164vIsumvzHQCNAIPEygOurHjhHrP50XhZZWfayQmzEE/edit?usp=sharing)
+
+
+Gallery Factory: / 02 733 4883 / www.factory483.org / galleryfactory@gmail.com 
+
+ 
   <img src="https://farm9.staticflickr.com/8748/16804993822_1439aa8a19_c.jpg">
   <img src="https://farm8.staticflickr.com/7635/16777525652_9058bd5b9f_c.jpg">
   <img src="https://farm9.staticflickr.com/8604/16780210176_16b7eddc97_z.jpg">
