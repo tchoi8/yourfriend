@@ -20,6 +20,9 @@ At the core of the exhibition were five workshops designed for uncommon social s
 The exhibition <Your friend, correspondence and collaboration> was made without a fixed budget. There were real costs involved with shipping, producing, renting, cooking, facilitating, travel that went under my own expenses. However, most importantly, all of the works in the exhibition was realized as a gift from the participating artists and the gallery factory.  
 
 I am starting a small fundraising campaign to produce a limited edition artist book that will complete the project and also open up ways in which the project can live beyond my direct involvement. From the project's inception and planning, I made a decision to not depend on grant or spend time for crowd funding, instead imagine ways of other ways gifting and collecting that will support the artists and the project.
+
+
+Small drawings 20000(won: $180)/ Large drawing 40000/ Handmade computer 50000/ Furniture + drawing negotiable 
  
 Condtions will be appllied to all gifts 
 
@@ -48,6 +51,8 @@ Gallery Factory: / 02 733 4883 / www.factory483.org / galleryfactory@gmail.com
 <당신의 친구, 대화와 협업>은 정해진 예산 없이 진행했다. 전시를 위한 실질적인 비용 지출: 작품 운송, 장비 대여, 음식과 교통비는 내가 부담했다. 하지만 가장 중요하고 많은 부분을 차지한 작품 제작과 전시 진행은 갤러리 팩토리의 지원이 있어서 가능했고, 참여 작가들의 자발적인 참여가 있었다. 
 
 이번 전시를 마무리할 아티스트 북을 만들기 위한 작은 펀드레이징 캠페인을 시작한다. 그 책은 내가 직접 프로젝트에 관여하지 않아도 우리의 대화가 이어질수 있도록 디자인하고 있다. 프로젝트의 시작부터 나는 기금 신청이나 크라우드 펀딩은 하지 않기로 생각했다. 그 대신 작가와 작품 제작을 직접 도울 수 있는 선물과 콜랙션의 방법을 생각해보고자 했다.
+
+작은 드로잉 20만/ 큰 드로잉 40만/ 손으로 만든 컴퓨터 50만/ 가구+ 드로잉 조합 가격 조정 가능. 
 
 선물 할 수 있는 방법과 조건. 
 
