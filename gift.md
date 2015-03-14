@@ -21,9 +21,8 @@ The exhibition <Your friend, correspondence and collaboration> was made without 
 
 I am starting a small fundraising campaign to produce a limited edition artist book that will complete the project and also open up ways in which the project can live beyond my direct involvement. From the project's inception and planning, I made a decision to not depend on grant or spend time for crowd funding, instead imagine ways of other ways gifting and collecting that will support the artists and the project.
 
+Small drawings 200,000(won: $180)/ Large drawing 400,000/ Handmade computer 500,000/ Furniture + drawing negotiable   
 
-Small drawings 20000(won: $180)/ Large drawing 40000/ Handmade computer 50000/ Furniture + drawing negotiable 
- 
 Condtions will be appllied to all gifts 
 
 2. Gifting to the project without an explicit expectation of future rewards. This is an opportunity to contribute to the project's continued existence.   
