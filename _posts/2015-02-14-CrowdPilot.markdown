@@ -17,6 +17,11 @@ categories: works
 그럼 오늘 뵙겠습니다.
 ![](https://farm1.staticflickr.com/314/18540314218_3b0a8fb0c4_z.jpg)
  
+ the facebook instruction in Korean
+ [Here](https://www.facebook.com/notes/1566876220224102/)
+ 
+ ##Crowd Pilot
+ 
  <iframe src="https://player.vimeo.com/video/86388606?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/86388606">crowdpilot</a> from <a href="https://vimeo.com/lmccart">Lauren McCarthy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   
  
